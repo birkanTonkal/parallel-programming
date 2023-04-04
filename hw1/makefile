@@ -1,4 +1,4 @@
-CC=gcc
+CC=mpicc
 CFLAGS=-I.
 DEPS = hellomake.h
 OBJ = 18050111060.o hellofunc.o 
